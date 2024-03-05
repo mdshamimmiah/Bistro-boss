@@ -9,6 +9,7 @@ const Navber = () => {
 <NavLink to='/'>Home</NavLink>
 <NavLink to='menu'>Our Menu</NavLink>
 <NavLink to='/order/pizza'>Order Food</NavLink>
+<NavLink to='/login'>Login</NavLink>
 </div>
    
     
